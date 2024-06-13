@@ -1,5 +1,5 @@
-https://docs.google.com/spreadsheets/d/1hAJn2JpgNnJBMMJKrrtxYKSow0zVe-bVel78ZUWf4ZU/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1MlZ_GhkFAit5HyEXUwki7S4i7SdslPwlYJEk4bNUWDc/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1McPnPSCZwSYV0vk12rCJHG67_oEJuw3mOXvm2HppG8s/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1Nid3Q7fbhwZtpwgsW8iaOxFsaUXhcZAy6eozGDjD1dg/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1U3Je7YeSMbgqDUjQ0Ml2Q16HMsq16o20oE-5mUKlDx8/edit?usp=sharing
+My home work/MyWork/Estimation_The_practice_of_creating_test_documentation.pdf
+My home work/MyWork/Mobile_application_testing.Bug_reports.pdf
+My home work/MyWork/Positive_and_negative_test_cases.pdf
+My home work/MyWork/Testing_API.JSON.REST.Bug_reports.pdf
+My home work/MyWork/User_interface_testing.Web_application_testing.Bug_reports.pdf
